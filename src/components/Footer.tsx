@@ -17,7 +17,7 @@ export default function Footer() {
                 <a
                     target="_blank"
                     rel="noreferrer"
-                    href="">
+                    href="https://github.com/Shardul-Khandekar/Speed-Typing">
                     <span>&lt;/&gt;</span> github
                 </a>
             </footer>
