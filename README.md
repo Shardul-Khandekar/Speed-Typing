@@ -12,3 +12,4 @@ npm start
 npm run build
 ```
 
+![image](https://github.com/Shardul-Khandekar/Speed-Typing/assets/68283854/c91dd1f7-f226-4808-9e1e-6bf96ca3ba9e)
