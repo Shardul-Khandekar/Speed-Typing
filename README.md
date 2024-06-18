@@ -12,3 +12,5 @@ npm start
 npm run build
 ```
 
+# Interface
+![image](https://github.com/Shardul-Khandekar/Speed-Typing/assets/68283854/e9c1e6b7-466d-4ea5-938a-22ce7815515c)
