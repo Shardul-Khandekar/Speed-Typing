@@ -1,4 +1,5 @@
 {
+    "homepage": "https://shardul-khandekar.github.io/Speed-Typing/",
     "name": "typing-test",
     "version": "0.1.0",
     "private": true,
@@ -28,7 +29,9 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "prepare": "husky install"
+        "prepare": "husky install",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": [
@@ -51,6 +54,7 @@
     "devDependencies": {
         "@commitlint/cli": "^17.1.2",
         "@commitlint/config-conventional": "^17.1.0",
+        "gh-pages": "^6.1.1",
         "husky": "^8.0.0",
         "prettier": "^2.7.1",
         "pretty-quick": "^3.1.3"
